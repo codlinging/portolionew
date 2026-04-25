@@ -8,7 +8,7 @@ function App() {
     { id: 1, title: 'Self Introduction', src: 'selfintro.mp4' },
     { id: 2, title: 'My Projects', src: 'projects.mp4' },
     { id: 3, title: 'Lesson-1 (Self Introduction)', src: 'lesson1.mp4' },
-    { id: 4, title: 'Lesson-2 (Group Discussion)', src: 'Lesson2.mp4' },
+    { id: 4, title: 'Lesson-2 (Group Discussion)', src: 'lesson2.mp4' },
     { id: 5, title: 'Lesson-3 (Extempore)', src: 'lesson3.mp4' },
     { id: 6, title: 'Lesson-4 (Interview)', src: 'lesson4.mp4' },
   ];
