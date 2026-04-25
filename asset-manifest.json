@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portolionew/static/css/main.23d314e7.css",
+    "main.js": "/portolionew/static/js/main.67f0acbf.js",
+    "static/js/453.5c6ddc6a.chunk.js": "/portolionew/static/js/453.5c6ddc6a.chunk.js",
+    "index.html": "/portolionew/index.html",
+    "main.23d314e7.css.map": "/portolionew/static/css/main.23d314e7.css.map",
+    "main.67f0acbf.js.map": "/portolionew/static/js/main.67f0acbf.js.map",
+    "453.5c6ddc6a.chunk.js.map": "/portolionew/static/js/453.5c6ddc6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23d314e7.css",
+    "static/js/main.67f0acbf.js"
+  ]
+}
